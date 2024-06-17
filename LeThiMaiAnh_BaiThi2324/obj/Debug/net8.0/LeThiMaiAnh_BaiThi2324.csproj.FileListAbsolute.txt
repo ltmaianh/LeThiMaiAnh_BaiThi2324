@@ -1,0 +1,9 @@
+D:\LeThiMaiAnhBaiThi2324\LeThiMaiAnh_BaiThi2324\obj\Debug\net8.0\LeThiMaiAnh_BaiThi2324.csproj.AssemblyReference.cache
+D:\LeThiMaiAnhBaiThi2324\LeThiMaiAnh_BaiThi2324\obj\Debug\net8.0\LeThiMaiAnh_BaiThi2324.GeneratedMSBuildEditorConfig.editorconfig
+D:\LeThiMaiAnhBaiThi2324\LeThiMaiAnh_BaiThi2324\obj\Debug\net8.0\LeThiMaiAnh_BaiThi2324.AssemblyInfoInputs.cache
+D:\LeThiMaiAnhBaiThi2324\LeThiMaiAnh_BaiThi2324\obj\Debug\net8.0\LeThiMaiAnh_BaiThi2324.AssemblyInfo.cs
+D:\LeThiMaiAnhBaiThi2324\LeThiMaiAnh_BaiThi2324\obj\Debug\net8.0\LeThiMaiAnh_BaiThi2324.csproj.CoreCompileInputs.cache
+D:\LeThiMaiAnhBaiThi2324\LeThiMaiAnh_BaiThi2324\obj\Debug\net8.0\LeThiMaiAnh_BaiThi2324.MvcApplicationPartsAssemblyInfo.cache
+D:\LeThiMaiAnhBaiThi2324\LeThiMaiAnh_BaiThi2324\obj\Debug\net8.0\LeThiMaiAnh_BaiThi2324.RazorAssemblyInfo.cache
+D:\LeThiMaiAnhBaiThi2324\LeThiMaiAnh_BaiThi2324\obj\Debug\net8.0\LeThiMaiAnh_BaiThi2324.RazorAssemblyInfo.cs
+D:\LeThiMaiAnhBaiThi2324\LeThiMaiAnh_BaiThi2324\obj\Debug\net8.0\LeThiMaiAnh_BaiThi2324.sourcelink.json
